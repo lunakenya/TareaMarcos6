@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\EjemploVersiones\bin\Debug\net8.0\EjemploVersiones.exe
+C:\Users\Lenovo\source\repos\EjemploVersiones\bin\Debug\net8.0\EjemploVersiones.deps.json
+C:\Users\Lenovo\source\repos\EjemploVersiones\bin\Debug\net8.0\EjemploVersiones.runtimeconfig.json
+C:\Users\Lenovo\source\repos\EjemploVersiones\bin\Debug\net8.0\EjemploVersiones.dll
+C:\Users\Lenovo\source\repos\EjemploVersiones\bin\Debug\net8.0\EjemploVersiones.pdb
+C:\Users\Lenovo\source\repos\EjemploVersiones\obj\Debug\net8.0\EjemploVersiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\EjemploVersiones\obj\Debug\net8.0\EjemploVersiones.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\EjemploVersiones\obj\Debug\net8.0\EjemploVersiones.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\EjemploVersiones\obj\Debug\net8.0\EjemploVersiones.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EjemploVersiones\obj\Debug\net8.0\EjemploVersiones.dll
+C:\Users\Lenovo\source\repos\EjemploVersiones\obj\Debug\net8.0\refint\EjemploVersiones.dll
+C:\Users\Lenovo\source\repos\EjemploVersiones\obj\Debug\net8.0\EjemploVersiones.pdb
+C:\Users\Lenovo\source\repos\EjemploVersiones\obj\Debug\net8.0\EjemploVersiones.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\EjemploVersiones\obj\Debug\net8.0\ref\EjemploVersiones.dll
